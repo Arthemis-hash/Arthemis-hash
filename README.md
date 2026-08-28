@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Sam%20El%20Haloui&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Cloud%20Architect&descAlignY=51&color=gradient&customColorList=12,11,10&animation=twinkling" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Sam%20El%20Haloui&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Cloud%20Architect&descAlignY=51&color=0:667eea,100:764ba2" />
-    <img alt="Sam El Haloui — Data Engineering, Systems and Cloud" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Sam%20El%20Haloui&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Cloud%20Architect&descAlignY=51&color=gradient" />
+    <img alt="Sam Halos — Data Engineering, Systems and Cloud" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Sam%20El%20Haloui&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Cloud%20Architect&descAlignY=51&color=gradient" />
   </picture>
 </div>
 
