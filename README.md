@@ -1,9 +1,9 @@
 <!-- Header Animé -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sam%20Halos&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20System%20%26%20Network%20Engineer&descAlignY=55&color=0:EA580C,100:FDBA74&animation=twinkling" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sam%20Halos&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20System%20%26%20Network%20Engineer&descAlignY=55&color=0:EA580C,100:FDBA74" />
-    <img alt="Sam Halos — Data Engineering, Analytics and Systems" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sam%20Halos&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20System%20%26%20Network%20Engineer&descAlignY=55&color=0:EA580C,100:FDBA74" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sam%20Halos&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20System%20%26%20Network%20Engineer&descAlignY=55&color=0:EA580C,100:FDBA74&animation=twinkling&fontColor=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sam%20Halos&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20System%20%26%20Network%20Engineer&descAlignY=55&color=0:EA580C,100:FDBA74&fontColor=ffffff" />
+    <img alt="Sam Halos — Data Engineering, Analytics and Systems" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sam%20Halos&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20System%20%26%20Network%20Engineer&descAlignY=55&color=0:EA580C,100:FDBA74&fontColor=ffffff" />
   </picture>
 
   <br/>
@@ -20,27 +20,27 @@
 
 ---
 
-### 🛠 Tech Stack & Core Expertise
+### ❖ Tech Stack & Core Expertise
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,bash,nginx,git,typescript,redis,cloudflare,kubernetes,aws&perline=12" alt="Skills"/>
 </div>
 <br>
 
-- 📊 **Data Engineering & Analysis:** High-performance ETL pipelines (Python/SQL), Analytics platforms, Data Observability, and actionable insights.
-- ☁️ **System & Network Engineering:** Linux service design, K8s, Docker, Nginx, reverse proxy mastery, CI/CD, and robust self-hosted architecture.
-- 🧠 **Applied AI/ML:** LLM integration, OpenAI-compatible APIs, and exact attention model implementations.
+▪ **Data Engineering & Analysis:** High-performance ETL pipelines (Python/SQL), Analytics platforms, Data Observability, and actionable insights.<br>
+▪ **System & Network Engineering:** Linux service design, K8s, Docker, Nginx, reverse proxy mastery, CI/CD, and robust self-hosted architecture.<br>
+▪ **Applied AI/ML:** LLM integration, OpenAI-compatible APIs, and exact attention model implementations.
 
 ---
 
-### 🚀 Featured Work
+### ❖ Featured Work
 
-| 🤖 [freeLLMapi](https://github.com/Artemis-hash/freellmapi) | ⚡ [flash-attention](https://github.com/Artemis-hash/flash-attention) | 💻 [SleepyMac](https://github.com/Artemis-hash/SleepyMac) & [PersonalCV](https://github.com/Artemis-hash/PersonalCV) |
+| [freeLLMapi](https://github.com/Artemis-hash/freellmapi) | [flash-attention](https://github.com/Artemis-hash/flash-attention) | [SleepyMac](https://github.com/Artemis-hash/SleepyMac) & [PersonalCV](https://github.com/Artemis-hash/PersonalCV) |
 | :--- | :--- | :--- |
 | **`TypeScript` `API Infra`**<br>Intelligent LLM routing across providers. Built for resilience, failover, and cost optimization. | **`Python` `ML Systems`**<br>O(N) memory complexity and CUDA-optimized kernels for fast, production-ready ML computation. | **`Swift` `Native` / `Portfolio`**<br>Lightweight native macOS desktop software & curated space showcasing professional direction. |
 
 ---
 
-### 📈 Activity & Philosophy
+### ❖ Activity & Philosophy
 
 <div align="center">
   <i>"Understand the problem → Build small → Automate wisely → Document decisions → Measure & Iterate"</i>
@@ -62,6 +62,15 @@
 ---
 
 <div align="center">
-  <b>Passionate about data platforms, network infrastructure, or practical automation?</b><br>
-  <a href="mailto:elhaloui.ovb@gmail.com">Let's build something meaningful together.</a>
+  <b>Ready to scale your data platforms or optimize your infrastructure?</b><br>
+  Whether it's for a complex architecture consultation, open-source collaboration, or discussing new engineering challenges, my inbox is always open.<br><br>
+  <a href="mailto:elhaloui.ovb@gmail.com"><b>elhaloui.ovb@gmail.com</b></a>
+  
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rounded&section=footer&text=Let's%20Build%20Together&fontSize=22&fontColor=ffffff&height=60&color=0:EA580C,100:FDBA74" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rounded&section=footer&text=Let's%20Build%20Together&fontSize=22&fontColor=ffffff&height=60&color=0:EA580C,100:FDBA74" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&section=footer&text=Let's%20Build%20Together&fontSize=22&fontColor=ffffff&height=60&color=0:EA580C,100:FDBA74" alt="Footer Ribbon" />
+  </picture>
 </div>
