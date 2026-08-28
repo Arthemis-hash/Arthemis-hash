@@ -97,7 +97,7 @@
 Data platforms        →  reliable flows, useful models, measurable quality
 Cloud & infrastructure →  repeatable deployments, security, observability
 Developer tooling      →  practical APIs, automation, performance
-Applied AI             →  controlled integration where it solves a real problem
+Applied AI             →  controlled integration where it solves a real problem .
 ```
 
 ## How I approach projects
