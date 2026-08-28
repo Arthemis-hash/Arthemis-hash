@@ -60,7 +60,7 @@
       
 ### Cloud Engineering
 **Turning code into production**
-- Containerized deployments (Docker, K8s)
+- Containerized deployments (Docker, K8s,Pods)
 - CI/CD pipelines that don't break
 - Cloudflare edge optimization
 - Observability & monitoring
